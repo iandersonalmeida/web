@@ -14,7 +14,7 @@ function App() {
       <HeaderComponent></HeaderComponent>  
       
       <div>
-        <Router basename= 'public.env.PUBLIC_URL'>
+        <Router>
           <Routes>
           <Route path = " "  element = {<MainContent/>}> /</Route>
           <Route path = "about" element = {<AboutContent/>}> </Route>
