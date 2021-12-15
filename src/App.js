@@ -12,12 +12,10 @@ function App() {
       <div>
         <Router basename='public.env.PUBLIC_URL'>
           <Routes>
-            <Route path = "/"  element = {<MainContent/>}> /</Route>
+            <Route path = "/web"  element = {<MainContent/>}> /</Route>
           </Routes>
         </Router>
-        
-
-      </div>  
+        </div>  
       <FooterComponent></FooterComponent>
     </div>
   );
