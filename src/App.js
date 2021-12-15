@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <HeaderComponent></HeaderComponent>  
-      <MainContent/>
+     
       
       <div>
         <Router basename='{public.env.PUBLIC_URL}' >
