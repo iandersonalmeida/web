@@ -18,7 +18,7 @@ function App() {
       <div>
         <Router>
           <Routes>          
-             <Route path = "" element = {<AboutContent/>}> </Route>
+             <Route path = "/" element = {<AboutContent/>}> </Route>
           </Routes>
         </Router>
         </div>  
