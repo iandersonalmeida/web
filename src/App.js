@@ -7,6 +7,7 @@ import MainContent from './components/MainContent';
 import AboutContent from './components/AboutContent';
 
 //<MainContent/>
+//<Route path = ""  element = {<MainContent/>}> </Route>
 
 function App() {
   return (
@@ -16,9 +17,8 @@ function App() {
       
       <div>
         <Router >
-          <Routes>
-          <Route path = ""  element = {<MainContent/>}> </Route>
-          <Route path = "about" element = {<AboutContent/>}> </Route>
+          <Routes>          
+             <Route path = "about" element = {<AboutContent/>}> </Route>
           </Routes>
         </Router>
         </div>  
