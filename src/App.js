@@ -10,7 +10,7 @@ function App() {
     <div>
       <HeaderComponent></HeaderComponent>  
       <div>
-        <Router>
+        <Router basename='public.env.PUBLIC_URL'>
           <Routes>
             <Route path = "/"  element = {<MainContent/>}> /</Route>
           </Routes>
