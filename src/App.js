@@ -4,6 +4,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import MainContent from './components/MainContent';
+import AboutContent from './components/AboutContent';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <div>
         <Router basename='public.env.PUBLIC_URL'>
           <Routes>
-            <Route path = "/"  element = {<MainContent/>}> /</Route>
+          <Route path = "/"  element = {<MainContent/>}> /</Route>
+          <Route path = "/about" element = {<AboutContent/>}> </Route>
           </Routes>
         </Router>
         </div>  
