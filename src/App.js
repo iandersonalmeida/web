@@ -9,10 +9,11 @@ function App() {
   return (
     <div>
       <HeaderComponent></HeaderComponent>  
+      <MainContent></MainContent>
       <div>
         <Router basename='public.env.PUBLIC_URL'>
           <Routes>
-            <Route path = "/web"  element = {<MainContent/>}> /</Route>
+            <Route path = "/"  element = {<MainContent/>}> /</Route>
           </Routes>
         </Router>
         </div>  
