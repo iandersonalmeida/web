@@ -17,7 +17,7 @@ class HeaderComponent extends Component {
                 <header> 
                     <nav className="navbar navbar-dark bg-dark">
                         <div className="container-fluid">
-                            <a className="navbar-brand" href=" ">Iânderson de Almeida</a>
+                            <a className="navbar-brand" href="">Iânderson de Almeida</a>
                             <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas"
                              data-bs-target="#offcanvasNavbar" >
                                 <span className="navbar-toggler-icon"></span>
@@ -32,7 +32,7 @@ class HeaderComponent extends Component {
                             <div className="offcanvas-body">
                                 <ul className="nav flex-column justify-content-end flex-grow-1 pe-3">
                                     <li className="nav-item">
-                                        <a className="nav-link active text-dark" href=" ">Home</a>
+                                        <a className="nav-link active text-dark" href="">Home</a>
                                     </li>
 
                                     <li className="nav-item">
