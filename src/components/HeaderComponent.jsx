@@ -36,11 +36,11 @@ class HeaderComponent extends Component {
                                     </li>
 
                                     <li className="nav-item">
-                                        <a className="nav-link text-dark" href="/about">About me</a>
+                                        <a className="nav-link text-dark" href="web/about">About me</a>
                                     </li>                                   
 
                                     <li className="nav-item">
-                                        <a className="nav-link text-dark" href="portfolio">Portfolio</a>
+                                        <a className="nav-link text-dark" href="web/portfolio">Portfolio</a>
                                     </li>
 
                                     <li className="nav-item">
