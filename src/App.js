@@ -12,7 +12,7 @@ function App() {
       <HeaderComponent></HeaderComponent>  
       <MainContent></MainContent>
       <div>
-        <Router basename= {public.env.PUBLIC_URL}>
+        <Router basename= 'public.env.PUBLIC_URL'>
           <Routes>
           <Route path = "/"  element = {<MainContent/>}> /</Route>
           <Route path = "/about" element = {<AboutContent/>}> </Route>
