@@ -16,7 +16,7 @@ function App() {
      
       
       <div>
-        <Router basename='{public.env.PUBLIC_URL}' >
+        <Router>
           <Routes>          
              <Route path = "about" element = {<AboutContent/>}> </Route>
           </Routes>
