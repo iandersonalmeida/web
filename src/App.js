@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import {HashRouter as Router, Routes, Route} from 'react-router-dom'
 import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import MainContent from './components/MainContent';
@@ -16,7 +16,7 @@ function App() {
       <div>
         <Router>
           <Routes>
-          <Route path = ""  element = {<MainContent/>}> /</Route>
+          <Route path = ""  element = {<MainContent/>}> </Route>
           <Route path = "about" element = {<AboutContent/>}> </Route>
           </Routes>
         </Router>
