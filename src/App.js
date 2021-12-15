@@ -6,11 +6,13 @@ import FooterComponent from './components/FooterComponent';
 import MainContent from './components/MainContent';
 import AboutContent from './components/AboutContent';
 
+//<MainContent/>
+
 function App() {
   return (
     <div>
       <HeaderComponent></HeaderComponent>  
-      <MainContent></MainContent>
+      
       <div>
         <Router basename= 'public.env.PUBLIC_URL'>
           <Routes>
