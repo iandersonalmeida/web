@@ -35,7 +35,7 @@ class HeaderComponent extends Component {
                                         <a className="nav-link active text-dark" href="">Home</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link text-dark" href="/web">About me</a>
+                                        <a className="nav-link text-dark" href="/web/about">About me</a>
                                     </li>                                   
 
                                     <li className="nav-item">
