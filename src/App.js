@@ -15,13 +15,12 @@ function App() {
       <HeaderComponent></HeaderComponent>  
      
       
-      <div>
-        <Router>
+              <Router>
           <Routes>          
              <Route path = "about" element = {<AboutContent/>}> </Route>
           </Routes>
         </Router>
-        </div>  
+        
       <FooterComponent></FooterComponent>
     </div>
   );
