@@ -14,12 +14,13 @@ function App() {
     <div>
       <HeaderComponent></HeaderComponent>  
      
-      
-              <Router>
+      <div>      
+        <Router>
           <Routes>          
              <Route path ="about" element={<AboutContent/>}></Route>
           </Routes>
         </Router>
+      </div> 
         
       <FooterComponent></FooterComponent>
     </div>
