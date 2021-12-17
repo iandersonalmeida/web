@@ -13,6 +13,7 @@ function App() {
   return (
     <div>
       <HeaderComponent></HeaderComponent>  
+      <MainContent/>
      
       <div>      
         <Router basename='/web'>
