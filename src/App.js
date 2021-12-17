@@ -14,7 +14,6 @@ function App() {
     <div>
       <HeaderComponent></HeaderComponent>  
       <MainContent/>
-     
       <div>      
         <Router basename='/web'>
           <Routes>
