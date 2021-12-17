@@ -15,7 +15,7 @@ function App() {
       <HeaderComponent></HeaderComponent>  
      
       <div>      
-        <Router>
+        <Router basename='/web'>
           <Routes>          
              <Route path ="about" element={<AboutContent/>}></Route>
           </Routes>
