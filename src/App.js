@@ -17,7 +17,7 @@ function App() {
       <div>      
         <Router basename='/web'>
           <Routes>
-          <Route path = "/"  element = {<MainContent/>}> </Route>
+          <Route path = "web"  element = {<MainContent/>}> </Route>
           <Route path ="about" element={<AboutContent/>}></Route>
           </Routes>
         </Router>
