@@ -13,6 +13,9 @@ function App() {
   return (
     <div>
       <HeaderComponent></HeaderComponent>  
+      <div>
+      <MainContent/>
+      </div>
     
       <div>      
         <Router basename='/web'>
