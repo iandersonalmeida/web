@@ -16,8 +16,9 @@ function App() {
      
       <div>      
         <Router basename='/web'>
-          <Routes>          
-             <Route path ="about" element={<AboutContent/>}></Route>
+          <Routes>
+          <Route path = "/"  element = {<MainContent/>}> </Route>
+          <Route path ="about" element={<AboutContent/>}></Route>
           </Routes>
         </Router>
       </div> 
