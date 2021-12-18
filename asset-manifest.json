@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/web/static/css/main.38c60bba.chunk.css",
-    "main.js": "/web/static/js/main.0af16881.chunk.js",
-    "main.js.map": "/web/static/js/main.0af16881.chunk.js.map",
-    "runtime-main.js": "/web/static/js/runtime-main.c774d42f.js",
-    "runtime-main.js.map": "/web/static/js/runtime-main.c774d42f.js.map",
+    "main.js": "/web/static/js/main.a332b599.chunk.js",
+    "main.js.map": "/web/static/js/main.a332b599.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.b8c0a4a0.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.b8c0a4a0.js.map",
     "static/js/2.c09b9178.chunk.js": "/web/static/js/2.c09b9178.chunk.js",
     "static/js/2.c09b9178.chunk.js.map": "/web/static/js/2.c09b9178.chunk.js.map",
-    "static/js/3.c5406972.chunk.js": "/web/static/js/3.c5406972.chunk.js",
-    "static/js/3.c5406972.chunk.js.map": "/web/static/js/3.c5406972.chunk.js.map",
+    "static/js/3.3f114c60.chunk.js": "/web/static/js/3.3f114c60.chunk.js",
+    "static/js/3.3f114c60.chunk.js.map": "/web/static/js/3.3f114c60.chunk.js.map",
     "index.html": "/web/index.html",
     "static/css/main.38c60bba.chunk.css.map": "/web/static/css/main.38c60bba.chunk.css.map",
     "static/js/2.c09b9178.chunk.js.LICENSE.txt": "/web/static/js/2.c09b9178.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/web/static/media/logo.6ce24c58.svg"
+    "static/media/Ticket-Sales-System.PNG": "/web/static/media/Ticket-Sales-System.3ad6a6f2.PNG",
+    "static/media/crud-jdbc.PNG": "/web/static/media/crud-jdbc.4f0c00b5.PNG",
+    "static/media/data-storage -MVC architecture.PNG": "/web/static/media/data-storage -MVC architecture.990cb86f.PNG",
+    "static/media/hotel-applicaiton.PNG": "/web/static/media/hotel-applicaiton.0580b4d0.PNG",
+    "static/media/logo.6ce24c58.svg": "/web/static/media/logo.6ce24c58.svg",
+    "static/media/spring-form.PNG": "/web/static/media/spring-form.83ca04f9.PNG",
+    "static/media/springboot-thymeleaf-application.PNG": "/web/static/media/springboot-thymeleaf-application.e7cf63d7.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.c774d42f.js",
+    "static/js/runtime-main.b8c0a4a0.js",
     "static/js/2.c09b9178.chunk.js",
     "static/css/main.38c60bba.chunk.css",
-    "static/js/main.0af16881.chunk.js"
+    "static/js/main.a332b599.chunk.js"
   ]
 }
