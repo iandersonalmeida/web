@@ -5,6 +5,7 @@ import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import MainContent from './components/MainContent';
 import AboutContent from './components/AboutContent';
+import PortfolioContent from './components/PortfolioContent';
 
 //<MainContent/>
 //<Route path = ""  element = {<MainContent/>}> </Route>
@@ -19,6 +20,7 @@ function App() {
           <Routes>
           <Route path = "web"  element = {<MainContent/>}> </Route>
           <Route path ="about" element={<AboutContent/>}></Route>
+          <Route path ="portfolio" element={<PortfolioContent/>}></Route>
           </Routes>
         </Router>
       </div> 
