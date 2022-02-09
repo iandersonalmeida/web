@@ -5,6 +5,7 @@ const images ={
     springForm: require('./spring-form.PNG').default,
     springThyme: require('./springboot-thymeleaf-application.PNG').default,
     ticketSales: require('./Ticket-Sales-System.PNG').default,
+    restApiSpring: require('./rest-api.PNG').default,
     
 }
 
