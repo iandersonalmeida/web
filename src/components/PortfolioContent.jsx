@@ -54,7 +54,7 @@ class PortfolioContent extends Component {
 
                          <div className="card m-4 border border-dark" style={{'width':'12%'}}>                            
                                 <a href="https://github.com/iandersonalmeida/phoenix-app-repo.git"
-                                 target="_blanck" > <img src={images.restApiSpring} alt="pic" className="card-img-top"></img> </a>
+                                 target="_blanck" > <img src={images.phoenixApp} alt="pic" className="card-img-top"></img> </a>
                                 <p class="card-text">Phoenix Web Application</p>                          
                         </div>                     
                      
