@@ -15,7 +15,7 @@ class PortfolioContent extends Component {
                 <div className="row">
 
                     
-                        <div className="card m-4 border border-dark" style={{'width':'9%'}}>                            
+                        <div className="card m-4 border border-dark" style={{'width':'4%'}}>                            
                                 <a href="https://github.com/iandersonalmeida/crud-jdbc" target="_blanck"> <img src={images.crudJdbc} alt="pic" className="card-img-top"></img> </a>
                                 <p class="card-text">Basic CRUD with JDBC</p>                          
                         </div> 
