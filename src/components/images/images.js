@@ -7,7 +7,7 @@ const images ={
     ticketSales: require('./Ticket-Sales-System.PNG').default,
     restApiSpring: require('./rest-api.PNG').default,
     phoenixApp: require('./phoenix-app.PNG').default,
-
+    microservice: require('./microservices.PNG').default,
     
 }
 

@@ -15,12 +15,14 @@ class MainContent extends Component {
 
                 <div className="d-flex justify-content-center">                                         
                 
-                <p > I'm Software Developer.
-                    <p className="text-muted">
+                <p > Software Developer
+                    {/*
+                   <p className="text-muted">
                          I am interested in systems development,
                          developing ideas and suggestions<br/>
                          for ways that IT can support and improve business process,<br/>
-                         helping to design new business process and information systems. </p>   
+                         helping to design new business process and information systems. </p> 
+        */} 
 
                 </p>
                </div>  
