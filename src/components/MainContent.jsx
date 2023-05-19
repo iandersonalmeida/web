@@ -15,7 +15,7 @@ class MainContent extends Component {
 
                 <div className="d-flex justify-content-center">                                         
                 
-                <p > Software Developer
+                <p > Developer
                     {/*
                    <p className="text-muted">
                          I am interested in systems development,
